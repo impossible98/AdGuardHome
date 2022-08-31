@@ -1,0 +1,10 @@
+{
+    "editor.cursorStyle": "block",
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.wordWrap": "bounded",
+}
